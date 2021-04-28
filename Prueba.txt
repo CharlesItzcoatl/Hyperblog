@@ -1,5 +1,4 @@
 Modificación uno.
 
 Esta es la segunda Modificación del universo.
-
-Fin.
+He borrado una línea. Este es el nuevo final del archivo.
