@@ -46,8 +46,9 @@ body
     font-size: 40px;
 }
 
-#post
+#footer
 {
-    background: white;
-    padding: 1em;
+    background: #777;
+    color: white;
+    text-align: center;
 }
