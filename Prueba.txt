@@ -3,4 +3,6 @@ Modificación uno.
 Esta es la segunda Modificación del universo.
 He borrado una línea. Este es el nuevo final del archivo.
 
+Nueva línea para experimentar con el Rebase.
+
 Aquí vamos a cambiar unas cositas desde el Alter Ego.
