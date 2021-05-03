@@ -20,16 +20,9 @@ La misma información pero ahora en una tabla de contenidos:
 
 **Table of Contents**
 
-# Aprender comandos para usar git.
-## Cómo crear proyectos localmente y guardar los cambios en un repositorio.
-### Cómo conectar con GitHub para acceder al proyecto de forma remota.
-#### Cómo hacer ramas.
-##### Cómo hacer merges.
-###### Cómo usar llaves SSH para enviar información de forma segura.
-## Cómo añadir colaboradores.
-### Para qué sirve la herramienta 'Pull Request'.
-#### Qué es un Fork.
-##### Más cositas todavía.
+[TOCM]
+
+[TOC]
 
 Código
 =============
@@ -66,4 +59,4 @@ Images
 =============
 
 ![](https://images-na.ssl-images-amazon.com/images/I/81XNEZ7MtJL._AC_SL1500_.jpg)
-> The Painkiller.
+> Painkiller es el duodécimo álbum de estudio de la banda británica de heavy metal Judas Priest, publicado en 1990 por Columbia Records.
