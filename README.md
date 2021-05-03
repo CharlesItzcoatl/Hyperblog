@@ -4,7 +4,7 @@ Contenido muy importante realizado en el curso de Platzi, aprendí cositas inter
 escribo el README.md para que todo el mundo sepa de qué va el proyecto y lo que he aprendido 
 para poder crearlo.
 
-# Features
+## Features
 - Aprender comandos para usar git.
 - Cómo crear proyectos localmente y guardar los cambios en un repositorio.
 - Cómo conectar con GitHub para acceder al proyecto de forma remota.
@@ -16,13 +16,6 @@ para poder crearlo.
 - Qué es un Fork.
 - Más cositas todavía.
 
-La misma información pero ahora en una tabla de contenidos: 
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
 
 Código
 =============
@@ -54,6 +47,16 @@ int main()
     </body>
 </html>
 ```
+
+### TeX(LaTeX)
+   
+$$E=mc^2$$
+
+Inline $$E=mc^2$$ Inline，Inline $$E=mc^2$$ Inline。
+
+$$\(\sqrt{3x-1}+(1+x)^2\)$$
+                    
+$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
 Images
 =============
