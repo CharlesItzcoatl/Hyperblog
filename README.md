@@ -20,16 +20,16 @@ La misma información pero ahora en una tabla de contenidos:
 
 **Table of Contents**
 
-###Aprender comandos para usar git.
-##Cómo crear proyectos localmente y guardar los cambios en un repositorio.
-###Cómo conectar con GitHub para acceder al proyecto de forma remota.
-####Cómo hacer ramas.
-#####Cómo hacer merges.
-######Cómo usar llaves SSH para enviar información de forma segura.
-##Cómo añadir colaboradores.
-###Para qué sirve la herramienta 'Pull Request'.
-####Qué es un Fork.
-#####Más cositas todavía.
+# Aprender comandos para usar git.
+## Cómo crear proyectos localmente y guardar los cambios en un repositorio.
+### Cómo conectar con GitHub para acceder al proyecto de forma remota.
+#### Cómo hacer ramas.
+##### Cómo hacer merges.
+###### Cómo usar llaves SSH para enviar información de forma segura.
+## Cómo añadir colaboradores.
+### Para qué sirve la herramienta 'Pull Request'.
+#### Qué es un Fork.
+##### Más cositas todavía.
 
 Código
 =============
@@ -42,9 +42,24 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hola mundo<<endl;
+    cout<<"Hola mundo"<<endl;
     return 0;
 }
+```
+
+#### HTML code
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+    </body>
+</html>
 ```
 
 Images
