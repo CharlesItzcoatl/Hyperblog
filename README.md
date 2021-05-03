@@ -30,6 +30,7 @@ La misma información pero ahora en una tabla de contenidos:
 ####Cómo hacer ramas.
 #####Cómo hacer merges.
 ######Cómo usar llaves SSH para enviar información de forma segura.
+
 ##Cómo añadir colaboradores.
 ###Para qué sirve la herramienta 'Pull Request'.
 ####Qué es un Fork.
