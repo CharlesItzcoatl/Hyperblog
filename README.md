@@ -40,7 +40,7 @@ Código
 
 ####C++
 
-'''cpp
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -49,7 +49,7 @@ int main()
     cout<<"Hola mundo<<endl;
     return 0;
 }
-
+```
 ###Images
 
 ![](https://images-na.ssl-images-amazon.com/images/I/81XNEZ7MtJL._AC_SL1500_.jpg)
