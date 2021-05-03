@@ -5,6 +5,8 @@ He borrado una línea. Este es el nuevo final del archivo.
 
 Experimento 1
 
+Experimento 2
+
 Nueva línea para experimentar con el Rebase.
 
 Segunda nueva línea para experimentar con el Rebase.
